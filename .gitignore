@@ -2,5 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-.txt
+APIkey.txt
+manifesto_apikey.txt
 data/*
+api_inputs/*
+api_outputs/*
+manifestos/*

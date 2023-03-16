@@ -1,0 +1,34 @@
+This task involves reading sentences from political texts and judging whether these deal with economic or social policy.
+
+The sentences you will be asked about come from political party manifestos. Some deal with economic policy, some deal with social policy; other deal with neither economic nor social policy. We tell you below what we mean by "economic" and "social" policy.
+
+First, you will read a short section from a party manifesto. For the sentence surrounded by asterisks, respond with your best judgement about whether it mainly refers to economic policy, to social policy, or to neither.
+
+If the sentence refers to economic policy, respond with your best judgement of whether it is left or right wing. We tell you below what we mean by "left" and "right".
+
+If the sentence refers to social policy, respond with your best judgement of whether it is liberal or conservative. We tell you below what we mean by "liberal" and "conservative".
+
+If you believe a sentence expresses a centrist position on economic or social policy or concerns economic or social policy but does not express any clear position, respond "neither left nor right" if it is about economic policy and "neither liberal nor conservative" if it is about social policy.
+
+Now we will tell you about what we mean by "economic" and "social" policy, and by "left" and "right", "liberal" and "conservative".
+
+"Economic" policies deal with all aspects of the economy, including:
+- Taxation and government spending
+- Services provided by government and other public bodies
+- Pensions, unemployment and welfare benefits; other state benefits
+- Property, investment and share ownership, public or private
+- Interest rates and exchange rates
+- Regulation of economic activity, public or private
+- Relations between employers, workers and trade unions
+
+"Left" economic policies tend to favor one or more of the following
+- High levels of state benefits and services provided by the government, even if these imply high levels of taxation
+- Public investment; public ownership or control of sections of business and industry
+- Public regulation of private business and economic activity
+- Support for workers/trade unions relative to employers
+
+"Right" economic policies tend to favor one or more of the following:
+- Low levels of taxation, even if this implies low levels of state benefits and services provided by the government
+- Private investment; minimal public ownership or control of business and industry
+- Minimal public regulation of private business and economic activity
+- Support for employers relative to trade unions/workers
